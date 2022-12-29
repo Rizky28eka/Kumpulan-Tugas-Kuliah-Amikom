@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rizky28eka/Downloads/Uas",
+      "program": "/Users/rizky28eka/Downloads/Uas/build/Debug/outDebug"
+    }
+  ]
+}
