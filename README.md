@@ -14,4 +14,4 @@ Pointer: merupakan variabel yang menyimpan alamat memori suatu nilai. Pointer be
 
 Variabel: merupakan nama yang diberikan kepada suatu lokasi memori yang digunakan untuk menyimpan nilai. Setiap variabel memiliki tipe data yang menentukan jenis nilai yang dapat disimpan di dalamnya.
 
-Tipe data: merupakan jenis nilai yang dapat disimpan dalam suatu variabel. Contohnya adal
+Tipe data: merupakan jenis nilai yang dapat disimpan dalam suatu variabel. Contohnya adalah integer, float, string, boolean, dan lainnya.
